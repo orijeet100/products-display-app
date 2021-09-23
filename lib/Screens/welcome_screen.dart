@@ -34,7 +34,7 @@ class WelcomeScreen extends StatelessWidget {
                   ),
                   const Expanded(
                     child: Text(
-                      'AppLore',
+                      'Applore',
                       style: TextStyle(
                         color: Colors.white,
                         fontFamily: 'Righteous',
